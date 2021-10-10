@@ -1,9 +1,9 @@
-<b># 3.Credit_Score_Prediction </b>
-Resumen: Exploración de los datos relacionados con el Riesgo Crediticio (Credit Score), entendimiento de la distribución de sus variables, patrones y finalmente planteamiento de varios modelos de predicción y selección del que presente mejor ajuste. 
+<b>3.Credit_Score_Prediction </b>
+<b>Resumen:</b> Exploración de los datos relacionados con el Riesgo Crediticio (Credit Score), entendimiento de la distribución de sus variables, patrones y finalmente planteamiento de varios modelos de predicción y selección del que presente mejor ajuste. 
 Se exploraron modelos como Random Forest, XGBoost y Gaussian Naive Bayes. Dicho esto, se empleó el tercer modelo (GNB) como el definitivo para hacer las predicciones y su posterior implementación.
 <br>
 <b>1. Introducción </b>
-Contexto
+<b>Contexto</b>
 El dataset original está compuesto por 1000 observaciones y 20 variables categóricas preparadas por el Dr. Hofman. Para algoritmos que requieren variables numéricas, Strathclyde University produjo el archivo "german.data-numeric". En este caso se analizará el dataset filtrado por Leonardo Ferreira. En este conjunto de datos, cada entrada representa a una persona que recibe un crédito de un banco. Cada persona se clasifica como riesgo crediticio bueno o malo según el conjunto de atributos. El enlace al conjunto de datos original se puede encontrar a continuación.
 <br>
 <b>Contenido </b>
