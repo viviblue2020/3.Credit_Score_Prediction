@@ -1,6 +1,6 @@
 <b>3.Credit_Score_Prediction (German Dataset) </b> 
 <br> <br>
-<b>1. Resumen:</b> Exploración de los datos relacionados con el Riesgo Crediticio (Credit Score), entendimiento de la distribución de sus variables, patrones y finalmente planteamiento de varios modelos de predicción y selección del que presente mejor ajuste. 
+<b>1. Resumen:</b> <br> Exploración de los datos relacionados con el Riesgo Crediticio (Credit Score), entendimiento de la distribución de sus variables, patrones y finalmente planteamiento de varios modelos de predicción y selección del que presente mejor ajuste. 
 Se exploraron modelos como Random Forest, XGBoost y Gaussian Naive Bayes. Dicho esto, se empleó el tercer modelo (GNB) como el definitivo para hacer las predicciones y su posterior implementación.
 <br> <br>
 <b>2. Contexto </b> <br>
