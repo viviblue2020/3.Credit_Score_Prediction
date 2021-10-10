@@ -19,5 +19,6 @@ Era casi imposible comprender el conjunto de datos original debido a su complica
 8.Duración (Numérica, en meses) <br>
 9.Propósito (Categórica: auto, muebles / equipo, radio / TV, electrodomésticos, reparaciones, educación, negocios, vacaciones / otros) <br>
 10.Riesgo (Variable objetivo categórica: Riesgo bueno o malo) <br>
-Dataset
+<br>
+<b>Dataset</b> <br>
 https://www.kaggle.com/kabure/predicting-credit-risk-model-pipeline/data?select=german_credit_data.csv
