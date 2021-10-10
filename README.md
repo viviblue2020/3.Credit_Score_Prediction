@@ -9,15 +9,15 @@ El dataset original está compuesto por 1000 observaciones y 20 variables categ�
 <b>3. Contenido del dataset </b> <br>
 Era casi imposible comprender el conjunto de datos original debido a su complicado sistema de categorías y símbolos. Por lo tanto, el autor de este dataset preparó un script de Python para convertirlo en un archivo CSV legible. Los atributos seleccionados son:
 <br> <br>
-1.Edad (numérica)
-2.Sexo (Categórica: masculino, femenino)
-3.Empleo (Numérica: 0 = no calificado y no residente, 1 = no calificado y residente, 2 = calificado, 3 = altamente calificado)
-4.Vivienda (Categórica: propio, alquilado o gratis)
-5.Cuentas de ahorro (Categórica: pequeño, moderado, bastante rico, rico)
-6.Cuenta corriente(Numérica, en DM - Marca Alemana)
-7.Monto del crédito (Numérica, in DM)
-8.Duración (Numérica, en meses)
-9.Propósito (Categórica: auto, muebles / equipo, radio / TV, electrodomésticos, reparaciones, educación, negocios, vacaciones / otros)
-10.Riesgo (Variable objetivo categórica: Riesgo bueno o malo)
+1.Edad (numérica) <br>
+2.Sexo (Categórica: masculino, femenino) <br>
+3.Empleo (Numérica: 0 = no calificado y no residente, 1 = no calificado y residente, 2 = calificado, 3 = altamente calificado) <br>
+4.Vivienda (Categórica: propio, alquilado o gratis) <br>
+5.Cuentas de ahorro (Categórica: pequeño, moderado, bastante rico, rico) <br>
+6.Cuenta corriente(Numérica, en DM - Marca Alemana) <br>
+7.Monto del crédito (Numérica, in DM) <br>
+8.Duración (Numérica, en meses) <br>
+9.Propósito (Categórica: auto, muebles / equipo, radio / TV, electrodomésticos, reparaciones, educación, negocios, vacaciones / otros) <br>
+10.Riesgo (Variable objetivo categórica: Riesgo bueno o malo) <br>
 Dataset
 https://www.kaggle.com/kabure/predicting-credit-risk-model-pipeline/data?select=german_credit_data.csv
