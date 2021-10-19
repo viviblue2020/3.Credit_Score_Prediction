@@ -23,4 +23,4 @@ Era casi imposible comprender el conjunto de datos original debido a su complica
 <b>Dataset</b> <br>
 https://www.kaggle.com/kabure/predicting-credit-risk-model-pipeline/data?select=german_credit_data.csv
 
-Nota: Algunas gráficas construidas con la librería plotly, se pueden visualizar en Jupyter Notebook. Es algo que debo corregir para poder visualizarlas en esta plataforma (Github).
+<b> Nota: Algunas gráficas construidas con la librería plotly, se pueden visualizar en Jupyter Notebook. Es algo que debo corregir para poder visualizarlas en esta plataforma (Github). </b>
